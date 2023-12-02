@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9aafab5ec24e3a468cbf65f5c7e23b0, type: 3}
+  m_Name: Atlas
+  m_EditorClassIdentifier: 
+  Path: ..\..\..\Resources\Atlas.unity3d
+  IncludeAssetsFromFolders: 0
+  SearchFoldersRecursively: 0
+  CreateDeterministicAssetBundle: 1
+  AppendHashToAssetBundleName: 1
+  Compression: 1
+  VerboseLogging: 0
+  ShowPlatformTargets: 0
+  StandaloneWindows: 1
+  StandaloneMacOSX: 0
+  StandaloneLinux: 0
+  StripRedundantAPIs: 1
+  WantD3D11: 1
+  WantOpenGL: 1
+  WantVulkan: 1
+  WantMetal: 1
+  SeparateShaders: 0
+  ShowShaderStripping: 0
+  StripMetaPass: 0
+  StripForwardBasePass: 0
+  StripForwardAddPass: 0
+  StripDeferredPass: 0
+  StripShadowCasterPass: 0
+  StripFogNone: 0
+  StripFogLinear: 1
+  StripFogExp: 0
+  StripFogExp2: 1
+  StripInstancing: 0
+  StripLightmapPlain: 1
+  StripLightmapDirCombined: 1
+  StripLightmapDynamicPlain: 1
+  StripLightmapDynamicDirCombined: 1
+  StripLightmapShadowMask: 1
+  StripLightmapSubtractive: 1
+  Objects:
+  - {fileID: 2800000, guid: ba93897a51e6e1f47b67ccdcb77f81fa, type: 3}
+  - {fileID: 2800000, guid: a9bfd79cf7d70384aae42284f88b7214, type: 3}
+  - {fileID: 2800000, guid: 6bce3070bbc8f8a458a4b72b2facef07, type: 3}
+  - {fileID: 2800000, guid: f074fab5f55a86241812be6a618b7af7, type: 3}
+  - {fileID: 2800000, guid: 7d698affa03df3b4f8cbbcaf21232ee6, type: 3}
+  - {fileID: 2800000, guid: 525cb354754b5544d86d64459da23ff8, type: 3}
+  - {fileID: 2800000, guid: d1beb21dea9147b4f9cf873f71e5fb09, type: 3}
+  - {fileID: 2800000, guid: 02b68fd172266a54a93373726ad05111, type: 3}
+  - {fileID: 2800000, guid: 5b31cd4fc1b067f49a40288193d60ca1, type: 3}
+  - {fileID: 2800000, guid: a8328ab4dacc6184b86d1d1bdd17d513, type: 3}
+  - {fileID: 2800000, guid: 69523e2c53aa84e4e847d5feb25ebece, type: 3}
+  - {fileID: 2800000, guid: 0dbbbf1a0928bb447ba83cbd385aa7d1, type: 3}
+  - {fileID: 2800000, guid: 151feadd43d5fe04c8d688d4f67449d1, type: 3}
+  - {fileID: 2800000, guid: cbb79802562814b4cb6e79ecde0add47, type: 3}
