@@ -35,6 +35,6 @@ MonoBehaviour:
   ChannelAlpha:
     value: 0
     invert: 0
-    factor: {r: 0, g: 1, b: 0, a: 0}
+    factor: {r: 0, g: 0, b: 0, a: 1}
     mode: 0
     src: {fileID: 2800000, guid: 7c0bb25b692318f4d8cbcc3125a28904, type: 3}

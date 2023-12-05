@@ -1,16 +1,9 @@
 <configs>
 	<append xpath="/paints">
-		<opaque id="ept_stylized_stone_floor" name="txName_ept_stone_floor" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
-			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/stylized_stone_005/stylized_stone_floor_005_basecolor.jpg"/>
-			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/stylized_stone_005/stylized_stone_floor_005_normal.jpg"/>
-			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/stylized_stone_005/Stylized_Stone_specular.png"/>
-			<property name="Group" value="txGroupCustom"/>
-			<property name="SortIndex" value="0"/>
-		</opaque>
-		<opaque id="ept_stylized_stone_floor_hr" name="txName_ept_stone_floor_hr" x="0" y="0" h="2" w="2" blockw="2" blockh="2">
-			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/stylized_stone_005/stylized_stone_floor_005_basecolor-0-0.jpg,assets/stylized_stone_005/stylized_stone_floor_005_basecolor-1-0.jpg,assets/stylized_stone_005/stylized_stone_floor_005_basecolor-0-1.jpg,assets/stylized_stone_005/stylized_stone_floor_005_basecolor-1-1.jpg"/>
-			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/stylized_stone_005/stylized_stone_floor_005_normal-0-0.png,assets/stylized_stone_005/stylized_stone_floor_005_normal-1-0.png,assets/stylized_stone_005/stylized_stone_floor_005_normal-0-1.png,assets/stylized_stone_005/stylized_stone_floor_005_normal-1-1.png"/>
-			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/stylized_stone_005/ssf_005_specular-0-0.png,assets/stylized_stone_005/ssf_005_specular-1-0.png,assets/stylized_stone_005/ssf_005_specular-0-1.png,assets/stylized_stone_005/ssf_005_specular-1-1.png"/>
+		<opaque id="ept_paint_wall_blue" name="txName_ept_paint_wall_blue" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_specular.png"/>
 			<property name="Group" value="txGroupCustom"/>
 			<property name="SortIndex" value="0"/>
 		</opaque>

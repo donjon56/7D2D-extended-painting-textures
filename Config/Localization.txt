@@ -1,3 +1,4 @@
 Key,english
 txName_ept_stone_floor,Stylized Stone Floor 005
 txName_ept_stone_floor_hr,Stylized Stone Floor 005 (HighRez)
+txName_ept_paint_wall_blue,Blue Paint 1x1
