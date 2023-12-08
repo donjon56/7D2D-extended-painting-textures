@@ -1,4 +1,41 @@
 Key,english
+txGroupEPTFlatPaint,EPT Flat Paint
+txGroupEPTMetallicPaint,EPT Metallic Paint
+txGroupEPTReflectiveMetalPaint,EPT Reflective Metallic Paint
+txName_ept_paint_wall_blue,Flat Blue Paint
+txName_ept_paint_wall_blue_metal,Metallic Blue Paint
+txName_ept_paint_wall_gray,Flat Gray Paint
+txName_ept_paint_wall_gray_metal,Metallic Gray Paint
+txName_ept_paint_wall_green,Flat Olive Paint
+txName_ept_paint_wall_green_metal,Metallic Olive Paint
+txName_ept_paint_wall_green2,Flat Green Paint
+txName_ept_paint_wall_green2_metal,Metallic Green Paint
+txName_ept_paint_wall_orange,Flat Orange Paint
+txName_ept_paint_wall_orange_metal,Metallic Orange Paint
+txName_ept_paint_wall_peach,Flat Peach Paint
+txName_ept_paint_wall_peach_metal,Metallic Peach Paint
+txName_ept_paint_wall_pink,Flat Pink Paint
+txName_ept_paint_wall_pink_metal,Metallic Pink Paint
+txName_ept_paint_wall_purple,Flat Purple Paint
+txName_ept_paint_wall_purple_metal,Metallic Purple Paint
+txName_ept_paint_wall_sky_blue,Flat Sky Blue Paint
+txName_ept_paint_wall_sky_blue_metal,Metallic Sky Blue Paint
+txName_ept_paint_wall_white,Flat White Paint
+txName_ept_paint_wall_white_metal,Metallic White Paint
+txName_ept_paint_wall_yellow,Flat Yellow Paint
+txName_ept_paint_wall_yellow_metal,Metallic Yellow Paint
+
+txName_ept_paint_wall_metal_reflective_blue,Reflective Metallic Blue Paint
+txName_ept_paint_wall_metal_reflective_gray,Reflective Metallic Gray Paint
+txName_ept_paint_wall_metal_reflective_green,Reflective Metallic Olive Paint
+txName_ept_paint_wall_metal_reflective_green2,Reflective Metallic Green Paint
+txName_ept_paint_wall_metal_reflective_orange,Reflective Metallic Orange Paint
+txName_ept_paint_wall_metal_reflective_peach,Reflective Metallic Peach Paint
+txName_ept_paint_wall_metal_reflective_pink,Reflective Metallic Pink Paint
+txName_ept_paint_wall_metal_reflective_purple,Reflective Metallic Purple Paint
+txName_ept_paint_wall_metal_reflective_sky_blue,Reflective Metallic Sky Blue Paint
+txName_ept_paint_wall_metal_reflective_white,Reflective Metallic White Paint
+txName_ept_paint_wall_metal_reflective_yellow,Reflective Metallic Yellow Paint
+
 txName_ept_stone_floor,Stylized Stone Floor 005
 txName_ept_stone_floor_hr,Stylized Stone Floor 005 (HighRez)
-txName_ept_paint_wall_blue,Blue Paint 1x1

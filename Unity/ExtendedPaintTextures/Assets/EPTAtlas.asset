@@ -15,7 +15,7 @@ MonoBehaviour:
   Path: ..\..\..\Resources\EPTAtlas.unity3d
   IncludeAssetsFromFolders: 0
   SearchFoldersRecursively: 0
-  CreateDeterministicAssetBundle: 1
+  CreateDeterministicAssetBundle: 0
   AppendHashToAssetBundleName: 1
   Compression: 1
   VerboseLogging: 0
@@ -49,4 +49,15 @@ MonoBehaviour:
   Objects:
   - {fileID: 2800000, guid: 270a1540d0c39ee4baa8fbe1b217c595, type: 3}
   - {fileID: 2800000, guid: f8c3bd592cfc27f40bdf6d5f91c23f46, type: 3}
-  - {fileID: 2800000, guid: d2d2412add64c95488a976edba058ca7, type: 3}
+  - {fileID: 2800000, guid: fca190d589468e243b00d04cb431e618, type: 3}
+  - {fileID: 2800000, guid: 089683705d512cb47ae28d10349d6d5d, type: 3}
+  - {fileID: 2800000, guid: d399c06b7066c26489824aedfe024c12, type: 3}
+  - {fileID: 2800000, guid: 83a88c1f55ca3e74390d7aaca639a6d3, type: 3}
+  - {fileID: 2800000, guid: 006cec4acaf81814ca8959a2f1d2dfb6, type: 3}
+  - {fileID: 2800000, guid: 6118a23cbdc0aa2408e928b41bc662a9, type: 3}
+  - {fileID: 2800000, guid: 5d5b1adf791a6d14e941b20808efd4f6, type: 3}
+  - {fileID: 2800000, guid: 1ebf712eba691c843abb9adeedf59508, type: 3}
+  - {fileID: 2800000, guid: fdcefa11870275543aba1df62498e2f2, type: 3}
+  - {fileID: 2800000, guid: ff653817441643c4d96a8b2c7ccb6bc6, type: 3}
+  - {fileID: 2800000, guid: 0091e45b978881e438ee2b77cd034421, type: 3}
+  - {fileID: 2800000, guid: 5a89927463a5c9640a405f1f1d171299, type: 3}

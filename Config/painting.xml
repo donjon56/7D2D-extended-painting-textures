@@ -2,9 +2,222 @@
 	<append xpath="/paints">
 		<opaque id="ept_paint_wall_blue" name="txName_ept_paint_wall_blue" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
 			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_basecolor.jpg"/>
-			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_normal.jpg"/>
-			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_specular.png"/>
-			<property name="Group" value="txGroupCustom"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_blue_metal" name="txName_ept_paint_wall_blue_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_gray" name="txName_ept_paint_wall_gray" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_gray_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_gray_metal" name="txName_ept_paint_wall_gray_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_gray_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_green" name="txName_ept_paint_wall_green" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_green_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_green_metal" name="txName_ept_paint_wall_green_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_green_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_green2" name="txName_ept_paint_wall_green2" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_green2_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_green2_metal" name="txName_ept_paint_wall_green2_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_green2_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>	
+		<opaque id="ept_paint_wall_orange" name="txName_ept_paint_wall_orange" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_orange_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_orange_metal" name="txName_ept_paint_wall_orange_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_orange_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_purple" name="txName_ept_paint_wall_purple" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_purple_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_purple_metal" name="txName_ept_paint_wall_purple_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_purple_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_pink" name="txName_ept_paint_wall_pink" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_pink_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_pink_metal" name="txName_ept_paint_wall_pink_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_pink_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_peach" name="txName_ept_paint_wall_peach" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_peach_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_peach_metal" name="txName_ept_paint_wall_peach_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_peach_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_sky_blue" name="txName_ept_paint_wall_sky_blue" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_sky_blue_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_sky_blue_metal" name="txName_ept_paint_wall_sky_blue_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_sky_blue_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_white" name="txName_ept_paint_wall_white" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_white_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_white_metal" name="txName_ept_paint_wall_white_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_white_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_yellow" name="txName_ept_paint_wall_yellow" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_yellow_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_flat_specular.png"/>
+			<property name="Group" value="txGroupEPTFlatPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_yellow_metal" name="txName_ept_paint_wall_yellow_metal" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_yellow_basecolor.jpg"/>
+			<property name="Normal" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_paint_normal.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTMetallicPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_blue" name="txName_ept_paint_wall_metal_reflective_blue" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_blue_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_gray" name="txName_ept_paint_wall_metal_reflective_gray" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_gray_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_green" name="txName_ept_paint_wall_metal_reflective_green" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_green_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_green2" name="txName_ept_paint_wall_metal_reflective_green2" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_green2_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_orange" name="txName_ept_paint_wall_metal_reflective_orange" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_orange_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_peach" name="txName_ept_paint_wall_metal_reflective_peach" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_peach_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_pink" name="txName_ept_paint_wall_metal_reflective_pink" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_pink_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_purple" name="txName_ept_paint_wall_metal_reflective_purple" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_purple_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_sky_blue" name="txName_ept_paint_wall_metal_reflective_sky_blue" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_sky_blue_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_white" name="txName_ept_paint_wall_metal_reflective_white" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_white_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
+			<property name="SortIndex" value="0"/>
+		</opaque>
+		<opaque id="ept_paint_wall_metal_reflective_yellow" name="txName_ept_paint_wall_metal_reflective_yellow" x="0" y="0" h="1" w="1" blockw="1" blockh="1">
+			<property name="Diffuse" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_yellow_basecolor.jpg"/>
+			<property name="Specular" value="#@modfolder:Resources/EPTAtlas.unity3d?assets/PaintWall/Paint_Wall_metal_specular.png"/>
+			<property name="Group" value="txGroupEPTReflectiveMetalPaint"/>
 			<property name="SortIndex" value="0"/>
 		</opaque>
 	</append>
