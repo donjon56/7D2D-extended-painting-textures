@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="7D2D-Extended-Paint-Materials" />
+	<DisplayName value="7D2D Extended Paint Materials Mod" />
+	<Description value="Uses OcbCustomTextures Core mod to provide additional paint and terrain textures via the atlas." />
+	<Website value="https://github.com/donjon56/7D2D-extended-painting-textures" />
+	<Author value="donjon56" />
+	<Version value="0.1.0" />
+</xml>
