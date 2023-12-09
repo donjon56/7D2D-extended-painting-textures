@@ -14,15 +14,15 @@ Extract Folder into Mod Folder
 
 Must install both mods
 
-- OcbCustomTextured Mod
+- OcbCustomTextured Mod (https://github.com/OCB7D2D/OcbCustomTexturesDemo)
 - 7D2D Extended Paint Textures
 
 
 ## Credits
 
-Unity Project Adapted From
-https://github.com/OCB7D2D/OcbCustomTexturesDemo
+Unity Project Adapted From:
+- https://github.com/OCB7D2D/OcbCustomTexturesDemo
 
 Assets Used in this Build
-https://3dtextures.me/2022/05/21/stylized-stone-floor-005/ (CC0)
-https://www.patreon.com/posts/eleven-free-pbr-53603307 (CC0)
+- https://3dtextures.me/2022/05/21/stylized-stone-floor-005/ (CC0)
+- https://www.patreon.com/posts/eleven-free-pbr-53603307 (CC0)
